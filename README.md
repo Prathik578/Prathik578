@@ -9,7 +9,7 @@ I'm a student and aspiring software developer from India, currently focused on b
 ## 🚀 About Me
 
 * 🧠 Currently learning: Python, Git, and core Computer Science fundamentals
-* 🎓 Following structured CS learning through **OSSU (Open Source Society University)**
+* 🎓 Following structured CS learning through **CS50 courses**
 * 💻 Interested in: AI, backend development, automation, and system design
 * 🎯 Goal: Become a highly skilled software engineer and build impactful tech products
 * 📚 Learning style: I prefer learning by building real projects and solving real problems
