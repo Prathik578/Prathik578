@@ -1,59 +1,90 @@
-# 👋 Hi there, I'm Prathik
+# Hi, I'm Prathik
 
-Welcome to my GitHub profile!
+Student • Builder • Future Researcher
 
-I'm a student and aspiring software developer from India, currently focused on building strong foundations in **Computer Science, Python, and real-world software development**.
+I'm a student from India exploring computer science, engineering, and technology through projects, research, and self-directed learning.
 
----
-
-## 🚀 About Me
-
-* 🧠 Currently learning: Python, Git, and core Computer Science fundamentals
-* 🎓 Following structured CS learning through **CS50 courses**
-* 💻 Interested in: AI, backend development, automation, and system design
-* 🎯 Goal: Become a highly skilled software engineer and build impactful tech products
-* 📚 Learning style: I prefer learning by building real projects and solving real problems
-* ⚡ Mindset: Consistency + curiosity > everything else
+My current focus is building strong foundations in programming, systems, networking, and problem-solving while documenting my progress through projects and technical work.
 
 ---
 
-## 🛠️ Tech Stack (Learning Phase)
+## Current Focus
 
-* Python 🐍
-* Git & GitHub 🔁
-* VS Code 💻
-* HTML/CSS (basic web understanding)
-* APIs & automation (in progress)
-
----
-
-## 📌 Current Focus
-
-* Completing **OSSU Computer Science curriculum** step-by-step
-* Strengthening Python fundamentals
-* Building small but meaningful projects
-* Improving problem-solving and logical thinking
-* Creating a strong GitHub portfolio for future opportunities
+* Completing CS50 and other computer science courses
+* Learning Python and C
+* Building practical software projects
+* Exploring networking and distributed systems
+* Developing AETHER
+* Conducting independent research
 
 ---
 
-## 📈 Goals for the Future
+## Technologies
 
-* Contribute to open-source projects
-* Build real-world software systems
-* Explore AI + backend engineering deeply
-* Become industry-ready through projects and OSSU learning path
-* Turn ideas into usable tech products
+### Working With
+
+* Python
+* C
+* Git & GitHub
+* Linux
+* SQL
+* VS Code
+
+### Currently Learning
+
+* Data Structures
+* Algorithms
+* Computer Networks
+* Operating Systems
+* Distributed Systems
+* Artificial Intelligence
 
 ---
 
-## 📫 Let's Connect
+## Areas of Interest
 
-* GitHub: [Prathik578](https://github.com/Prathik578)
+* Computer Science
+* Systems Engineering
+* Networking
+* Artificial Intelligence
+* Research
+* Aerospace Technology
+* Electronics
 
 ---
 
-> “Discipline builds what motivation can’t sustain.”
+## Learning Philosophy
 
-Thanks for visiting my profile 🚀
+I believe the best way to learn is by building.
+
+Most of my projects are created to explore concepts in computer science, understand how systems work, and develop practical engineering skills.
+
+Each repository represents a step in that journey.
+
+---
+
+## Long-Term Goals
+
+* Become a highly skilled engineer and researcher
+* Publish technical research
+* Contribute to open-source software
+* Build impactful technology products
+* Develop large-scale software and systems projects
+
+---
+
+## Current Mission
+
+Learn → Build → Document → Improve → Repeat
+
+---
+
+## GitHub
+
+github.com/Prathik578
+
+---
+
+> "The best way to learn is to build."
+
 
