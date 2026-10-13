@@ -149,9 +149,11 @@ An ongoing engineering project. More details will be added as the project develo
 ### `// 04. CONTRIBUTION MATRIX`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Prathik578/Prathik578/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph"/>
-
+  <img
+    src="https://raw.githubusercontent.com/Prathik578/Prathik578/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub contribution snake animation"
+  />
 </div>
 
 <details>
