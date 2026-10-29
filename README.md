@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=PRATHIK&fontSize=82&color=0:050505,35:071D18,70:00FFAA,100:050505&stroke=00FFAA&strokeWidth=1&fontColor=E8FFF6&animation=fadeIn&desc=ENGINEERING%20THE%20UNKNOWN&descSize=17&descAlignY=72" width="100%" alt="Prathik — Engineering the Unknown"/>
 
@@ -21,7 +21,7 @@
 │                                                          │
 │  IDENTITY    Student / Builder / Researcher               │
 │  DOMAIN      Computer Science & Engineering               │
-│  INTERESTS   Systems · AI · Networks · Electronics        │
+│  INTERESTS   Systems · AI · Networks · Mathematics       │
 │  WORKFLOW    Observe → Build → Test → Understand          │
 │                                                          │
 │  CURRENT OBJECTIVE                                        │
@@ -34,11 +34,13 @@
 <summary><b>▸ ACCESS SYSTEM PROFILE</b></summary>
 <br/>
 
-I'm Prathik, a student from India exploring the foundations of computer science and engineering through practical projects, experimentation, and independent research.
+I'm Prathik, a student from India exploring computer science and engineering through practical software projects, systems experiments, and independent mathematical research.
 
-I want to understand not only how to use technology, but how it works internally — its architecture, constraints, failure modes, and underlying principles.
+I like understanding what happens beneath an abstraction: how software is architected, how networks and machines interact, why systems fail, and what mathematical structure can tell us about a problem.
 
-My GitHub is a growing record of that process.
+My projects range from full-stack applications and API maintenance automation to Linux experiments on constrained hardware and research into strongly regular graphs.
+
+This GitHub profile is a growing record of that process — including the experiments, the engineering decisions, and the work still in progress.
 
 </details>
 
@@ -48,13 +50,13 @@ My GitHub is a growing record of that process.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,sqlite,linux,git,github,vscode,docker&theme=dark&perline=8" alt="Python, C, SQL, Linux, Git, GitHub, VS Code and Docker"/>
+<img src="https://skillicons.dev/icons?i=python,c,typescript,react,linux,git,github,docker&theme=dark&perline=8" alt="Python, C, TypeScript, React, Linux, Git, GitHub and Docker"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LEARNING-Algorithms-101010?style=for-the-badge&labelColor=101010&color=00FFAA"/>
-<img src="https://img.shields.io/badge/EXPLORING-Distributed%20Systems-101010?style=for-the-badge&labelColor=101010&color=00FFAA"/>
-<img src="https://img.shields.io/badge/RESEARCHING-AI%20%26%20Edge%20ML-101010?style=for-the-badge&labelColor=101010&color=00FFAA"/>
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack%20Applications-101010?style=for-the-badge&labelColor=101010&color=00FFAA"/>
+<img src="https://img.shields.io/badge/EXPLORING-Systems%20Engineering-101010?style=for-the-badge&labelColor=101010&color=00FFAA"/>
+<img src="https://img.shields.io/badge/RESEARCHING-Graph%20Theory-101010?style=for-the-badge&labelColor=101010&color=00FFAA"/>
 
 </div>
 
@@ -64,48 +66,84 @@ My GitHub is a growing record of that process.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-SOFTWARE-00FFAA?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/01-SOFTWARE%20RELIABILITY-00FFAA?style=flat-square&labelColor=050505"/>
 
 ### API Guardian
 
-Automated API dependency maintenance, compatibility analysis, and evidence-driven migration workflows.
+An API maintenance platform focused on detecting upstream changes, analyzing compatibility, proposing migrations, and verifying changes with evidence.
 
-`ARCHITECTURE` `AUTOMATION` `RELIABILITY`
+<a href="https://github.com/Prathik578/API-Guradian">↗ INSPECT REPOSITORY</a>
+
+`AUTOMATION` `MIGRATION` `VERIFICATION`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-APPLICATIONS-00FFAA?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/02-DISTRIBUTED%20SYSTEMS-00FFAA?style=flat-square&labelColor=050505"/>
 
-### ExpenseTrack
+### AETHER Node System
 
-A personal finance application exploring transaction management, interface design, and data visualization.
+A terminal-first engineering lab exploring Linux, networking, automation, monitoring, and distributed execution across constrained hardware.
 
-<a href="https://github.com/Prathik578/Expense-Tracker">↗ INSPECT REPOSITORY</a>
+<a href="https://github.com/Prathik578/AETHER-Project">↗ INSPECT REPOSITORY</a>
+
+`LINUX` `NETWORKING` `OBSERVABILITY`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03-EDGE%20INTELLIGENCE-00FFAA?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/03-MATHEMATICAL%20RESEARCH-00FFAA?style=flat-square&labelColor=050505"/>
 
-### TinyML Experiments
+### Conway 99-Graph Research
 
-Exploring embedded machine learning, model evaluation, and efficient inference on edge devices.
+An independent research archive investigating structural constraints and automorphism-related arguments for a putative strongly regular graph with parameters \((99,14,1,2)\).
+
+<a href="https://github.com/Prathik578/Conway-99-Graph-Problem">↗ INSPECT RESEARCH</a>
+
+`GRAPH THEORY` `COMBINATORICS` `PROOF AUDITING`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04-ENGINEERING-00FFAA?style=flat-square&labelColor=050505"/>
+<img src="https://img.shields.io/badge/04-EDGE%20ENGINEERING-00FFAA?style=flat-square&labelColor=050505"/>
 
-### AETHER
+### Redmi 3S Sentinel Lab
 
-An ongoing engineering project. More details will be added as the project develops.
+Exploring how an older Android phone can serve as a constrained Linux micro-server and hardware telemetry node.
+
+<a href="https://github.com/Prathik578/redmi3s-sentinel-lab">↗ INSPECT REPOSITORY</a>
+
+`LINUX` `EDGE COMPUTING` `HARDWARE TELEMETRY`
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>▸ SOFTWARE BUILD DATABASE</b></summary>
+
+<br/>
+
+I'm also building a portfolio through the **50 Projects in 50 Builds** challenge — a structured way to learn application architecture by implementing different products and documenting their design decisions.
+
+Current projects include:
+
+| Project | Focus |
+|:--|:--|
+| [Anonymous Feedback Box](https://github.com/Prathik578/Quiet-Note) | Authentication, private dashboards, anonymous submissions |
+| [Application Tracker](https://github.com/Prathik578/Application-Tracker) | Kanban workflows, filtering, persistent data |
+| [ExpenseTrack](https://github.com/Prathik578/Expense-Tracker) | Personal finance and transaction-driven analytics |
+| [Habit Forge](https://github.com/Prathik578/Habit-Forge) | Local-first persistence, habit history, analytics |
+| [Nexus Command Center](https://github.com/Prathik578/Nexus-command-center) | Project management, tasks, and a knowledge vault |
+| [ContentFlow](https://github.com/Prathik578/content-flow) | Content planning and publishing calendar |
+| [Campus Lost & Found](https://github.com/Prathik578/Lost-And-Found-Page) | Searchable listings and item-recovery workflows |
+| [Caption Crafter](https://github.com/Prathik578/Caption-crafter-) | Client-side text transformation and formatting |
+
+<a href="https://github.com/Prathik578/50-Projects-50-Builds">↗ EXPLORE THE BUILD CHALLENGE</a>
+
+</details>
 
 <details>
 <summary><b>▸ RESEARCH DATABASE</b></summary>
@@ -116,9 +154,10 @@ An ongoing engineering project. More details will be added as the project develo
 |:--|:--|
 | Systems | What happens beneath an abstraction? |
 | Networking | How do distributed machines communicate and fail? |
-| AI | How can intelligent systems become more efficient? |
+| AI | How can intelligent systems become more reliable and efficient? |
+| Mathematics | What structural constraints can be proved from a graph's parameters? |
 | Electronics | How does software interact with physical hardware? |
-| Aerospace | How do engineering constraints shape complex systems? |
+| Edge computing | What can constrained devices reliably do? |
 
 </details>
 
@@ -159,7 +198,7 @@ An ongoing engineering project. More details will be added as the project develo
 <details>
 <summary><b>▸ ENABLE CONTRIBUTION ANIMATION</b></summary>
 
-The snake graphic requires a GitHub Actions workflow in your profile repository. Create a repository named exactly `Prathik578`, add the appropriate snake-generation workflow, and configure it to publish the generated SVG to the `output` branch. Until the workflow runs successfully, this image may not appear.
+The snake graphic requires a GitHub Actions workflow in this profile repository. It must generate the SVG and publish it to the `output` branch. If the workflow hasn't run successfully, the image may not appear.
 
 </details>
 
@@ -203,4 +242,3 @@ class Engineering:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071D18,100:00FFAA&height=100&section=footer" width="100%" alt=""/>
 
 </div>
-
